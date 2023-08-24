@@ -7,7 +7,7 @@
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>sungjin 4th test</h3>
-    <h3>Version: 4.4</h3>
+    <h3>sungjin 5th test</h3>
+    <h3>Version: 4.5</h3>
 </body>
 </html>
